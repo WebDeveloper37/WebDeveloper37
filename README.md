@@ -1,8 +1,8 @@
-![](https://github.com/JS-IT/JS-it/blob/master/background.jpg)
+![](https://github.com/dmitriy-mishachenkoT/dmitriy-mishachenko/blob/master/background.jpg)
 
 ### Overview
 
-`JS-IT` is a highly efficient and reliable professional who possesses a broad skill set focused on web and mobile application development, and worked on a range of products with clients from working on scalability obstacles in production engineering at `Tensail Analytics`, `JustGetvisible`, `Simakos`, `Sucsellful`, `Snapwiz`, and `GoHomly` with the objective to develop programming solutions and launch new applications. `JS-IT` focus on creating code that is easy to read, maintain, and test to optimize the developer’s experience and optimizing the overall functionality and aesthetics of the applications themselves.
+`dmitriy-mishachenko` is a highly efficient and reliable professional who possesses a broad skill set focused on web and mobile application development, and worked on a range of products with clients from working on scalability obstacles in production engineering at `Tensail Analytics`, `JustGetvisible`, `Simakos`, `Sucsellful`, `Snapwiz`, and `GoHomly` with the objective to develop programming solutions and launch new applications. `JS-dmitriy-mishachenko` focus on creating code that is easy to read, maintain, and test to optimize the developer’s experience and optimizing the overall functionality and aesthetics of the applications themselves.
 
 #### ✨ Technical Stacks ✨
 
@@ -12,6 +12,7 @@
 * 🥈 DevOps: [CircleCI](https://circleci.com/), [Jenkins](https://www.jenkins.io/), [Github Actions](https://docs.github.com/en/actions), [Bitbucket Pipeline](https://bitbucket.org/product/features/pipelines), [Bitrise](https://www.bitrise.io/)
 * 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/), [RSpec](https://rspec.info/)
 
-What `JS-IT` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
+What `
+` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
 
-Feel free to contact `JS-IT` via [eMail](mailto:werityouri@gmail.com?Subject=Hello%20JS!) or [Skype](https://join.skype.com/invite/) who is always ready to make your professional dreams a reality.
+Feel free to contact `dmitriy-mishachenko` via [eMail](mailto:werityouri@gmail.com?Subject=Hello%20JS!) or [Skype](https://join.skype.com/invite/) who is always ready to make your professional dreams a reality.
