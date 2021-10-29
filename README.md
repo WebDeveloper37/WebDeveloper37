@@ -1,8 +1,8 @@
-![](https://github.com/dmitriy-mishachenkoT/dmitriy-mishachenko/blob/master/background.jpg)
+![](https://github.com/WebDeveloper37/WebDeveloper37/blob/master/background.jpg)
 
 ### Overview
 
-`dmitriy-mishachenko` is a highly efficient and reliable professional who possesses a broad skill set focused on web and mobile application development, and worked on a range of products with clients from working on scalability obstacles in production engineering at `Tensail Analytics`, `JustGetvisible`, `Simakos`, `Sucsellful`, `Snapwiz`, and `GoHomly` with the objective to develop programming solutions and launch new applications. `JS-dmitriy-mishachenko` focus on creating code that is easy to read, maintain, and test to optimize the developer’s experience and optimizing the overall functionality and aesthetics of the applications themselves.
+`WebDeveloper37` is a highly efficient and reliable professional who possesses a broad skill set focused on web and mobile application development, and worked on a range of products with clients from working on scalability obstacles in production engineering at `Tensail Analytics`, `JustGetvisible`, `Simakos`, `Sucsellful`, `Snapwiz`, and `GoHomly` with the objective to develop programming solutions and launch new applications. `Webdeveloper37` focus on creating code that is easy to read, maintain, and test to optimize the developer’s experience and optimizing the overall functionality and aesthetics of the applications themselves.
 
 #### ✨ Technical Stacks ✨
 
@@ -15,4 +15,4 @@
 What `
 ` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
 
-Feel free to contact `dmitriy-mishachenko` via [eMail](mailto:werityouri@gmail.com?Subject=Hello%20JS!) or [Skype](https://join.skype.com/invite/) who is always ready to make your professional dreams a reality.
+Feel free to contact `WebDeveloper37` via [eMail](mailto:werityouri@gmail.com?Subject=Hello%20JS!) or [Skype](https://join.skype.com/invite/) who is always ready to make your professional dreams a reality.
