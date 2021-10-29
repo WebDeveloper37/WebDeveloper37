@@ -14,5 +14,3 @@
 
 What `
 ` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
-
-Feel free to contact `WebDeveloper37` via [eMail](mailto:inteliviper@gmail.com?Subject=Hello%20JS!) or SkypeID : (live:.cid.c6436cf8f7b3367e) who is always ready to make your professional dreams a reality.
